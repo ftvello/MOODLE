@@ -3,13 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "vmssName": {
-            "value": null
+            "value": "eadmoodle"
         },
         "instanceCount": {
-            "value": null
+            "value": 2
         },
         "adminUsername": {
-            "value": null
+            "value": "azureadmin"
+        },
+        "adminPassword": {
+            "value": "Ead2016@admin"
+        },
+        "vmSize": {
+            "value": "Standard_DS1_v2"
         }
     }
 }

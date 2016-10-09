@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "AzureResourceGroup2", "AzureResourceGroup2\AzureResourceGroup2.deployproj", "{06E2249C-E6F5-4973-A154-7726E5065160}"
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "MOODLE_EAD", "AzureResourceGroup2\MOODLE_EAD.deployproj", "{06E2249C-E6F5-4973-A154-7726E5065160}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
